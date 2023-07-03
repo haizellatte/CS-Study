@@ -25,13 +25,12 @@
    - e.g. 피터, 그건 왜 그런건가요? (O)
    - [참고](https://about.daangn.com/culture/)
 
-## Members
-
-| 이름   | Github                                                   | Nickname |
-| ------ | -------------------------------------------------------- | -------- |
-| 박규성 | [@guesung](https://github.com/guesung)                   | peter    |
-| 강주혁 | [@kangju2000](https://github.com/kangju2000)             |          |
-| 민세림 | [@anonymousRecords](https://github.com/anonymousRecords) | chapdo    |
+## Member
+| 이름 | Github | Nickname |
+| - | - | - |
+| 박규성 | [@guesung](https://github.com/guesung)| peter |
+| 심효은 | [@haizel](https://github.com/haizellatte)| haizel |
+| 김나연 | [@kknyapple](https://github.com/kknyapple)| kknyapple |
 
 ## Time Table
 
